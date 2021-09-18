@@ -1,6 +1,6 @@
 ### About Me 👋
 
-Coder Tesla: Coding for fun.
+😄 mTesla: Coding for fun.
 
 <!--
 **codertesla/codertesla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
