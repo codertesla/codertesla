@@ -1,10 +1,11 @@
 ### About Me 👋
 
-😄 mTesla: Code for fun.
+😄 Code for fun.
 
 * Python
 * DeFi
 * NFT
+* Web3
 
 <!--
 **codertesla/codertesla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
