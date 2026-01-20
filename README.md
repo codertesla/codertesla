@@ -4,8 +4,8 @@
 
 ### 🚀 About Me
 - 🦖 **A coding dino** exploring the digital landscape.
-- � **Portfolio:** Explore my collection of works at [codertesla.github.io](https://codertesla.github.io/)
-- �🌍 Located on **Mars** (or at least that's where the best code is written).
+- 🎨 **Portfolio:** Explore my collection of works at [codertesla.github.io](https://codertesla.github.io/)
+- ☄️ Located on **Mars** (or at least that's where the best code is written).
 - 🔭 I’m currently focused on **Web Automation** and **AI-powered productivity tools**.
 - 🌱 I’m constantly refining my skills in **Python**, **JavaScript**, and **TypeScript**.
 - 💬 Ask me about **Bilibili userscripts**, **SSL utilities**, or **AI-enhanced workflows**.
