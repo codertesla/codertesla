@@ -25,7 +25,7 @@
 | [**SSLCheck**](https://github.com/codertesla/SSLCheck) | Advanced SSL certificate status and expiration checker. | Python | ⭐ 17 |
 | [**bilibili-1-click-blocker**](https://github.com/codertesla/bilibili-1-click-blocker) | A userscript to efficiently block creators on Bilibili. | JavaScript | ⭐ 9 |
 | [**wtf-commit**](https://github.com/codertesla/wtf-commit) | AI-powered VS Code extension for meaningful commit messages. | TypeScript | ⭐ 3 |
-| [**PyVanity**](https://github.com/codertesla/PyVanity) | High-speed Ethereum vanity address generator. | Python | - |
+| [**codex-remote-login**](https://github.com/codertesla/codex-remote-login) | Zero-dependency bash script to authenticate Codex CLI on remote servers. | Shell | - |
 
 > [!TIP]
 > 🚀 **[View all projects at codertesla.github.io →](https://codertesla.github.io/)**
