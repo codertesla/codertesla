@@ -31,11 +31,6 @@
 > 🚀 **[View all projects at codertesla.github.io →](https://codertesla.github.io/)**
 
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codertesla&show_icons=true&theme=radical&count_private=true" alt="codertesla's stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codertesla&layout=compact&theme=radical" alt="codertesla's languages" height="180px"/>
-</p>
 
 ### 📈 Activity Graph
 ![codertesla's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codertesla&theme=react-dark)
