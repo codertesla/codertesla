@@ -21,13 +21,13 @@
 </p>
 
 ### ✨ Featured Projects
-| Project | Description | Stack | Stars |
-| :--- | :--- | :--- | :--- |
-| [**wtf-commit**](https://github.com/codertesla/wtf-commit) | AI-powered VS Code extension for concise, meaningful commit messages, with **10K+ downloads**. | TypeScript | ⭐ 3 |
-| [**bili-comment-buddy**](https://github.com/codertesla/bili-comment-buddy) | Tampermonkey userscript that uses LLMs to generate editable Bilibili comments. | JavaScript | — |
-| [**XGuard-Reply-Filter**](https://github.com/codertesla/XGuard-Reply-Filter) | Userscript for blocking spam replies on X/Twitter with one click. | JavaScript | — |
-| [**bilibili-1-click-blocker**](https://github.com/codertesla/bilibili-1-click-blocker) | A userscript to block Bilibili creators directly from the homepage or video pages. | JavaScript | ⭐ 15 |
-| [**codex-remote-login**](https://github.com/codertesla/codex-remote-login) | Zero-dependency bash script to authenticate Codex CLI on remote servers. | Shell | - |
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [**wtf-commit**](https://github.com/codertesla/wtf-commit) | AI-powered VS Code extension for concise, meaningful commit messages, with **10K+ downloads**. | TypeScript |
+| [**bili-comment-buddy**](https://github.com/codertesla/bili-comment-buddy) | Tampermonkey userscript that uses LLMs to generate editable Bilibili comments. | JavaScript |
+| [**XGuard-Reply-Filter**](https://github.com/codertesla/XGuard-Reply-Filter) | Userscript for blocking spam replies on X/Twitter with one click. | JavaScript |
+| [**bilibili-1-click-blocker**](https://github.com/codertesla/bilibili-1-click-blocker) | A userscript to block Bilibili creators directly from the homepage or video pages. | JavaScript |
+| [**codex-remote-login**](https://github.com/codertesla/codex-remote-login) | Zero-dependency bash script to authenticate Codex CLI on remote servers. | Shell |
 
 > [!TIP]
 > 🚀 **[View all projects at codertesla.github.io →](https://codertesla.github.io/)**
