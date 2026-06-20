@@ -6,9 +6,10 @@
 - 🦖 **A coding dino** exploring the digital landscape.
 - 🎨 **Portfolio:** Explore my collection of works at [codertesla.github.io](https://codertesla.github.io/)
 - ☄️ Located on **Mars** (or at least that's where the best code is written).
+- 🤖 I’m passionate about exploring **AI models and tools**, and currently use **Codex**, **Hermes**, and other emerging AI systems in my daily workflow.
 - 🔭 I’m currently focused on **Web Automation** and **AI-powered productivity tools**.
 - 🌱 I’m constantly refining my skills in **Python**, **JavaScript**, and **TypeScript**.
-- 💬 Ask me about **Bilibili userscripts**, **SSL utilities**, or **AI-enhanced workflows**.
+- 💬 Ask me about **Bilibili userscripts**, **AI models and tooling**, or **AI-enhanced workflows**.
 - ⚡ Fun fact: I believe dinosaurs didn't go extinct; they just moved to the cloud.
 
 ### 🛠️ Tech Stack
@@ -22,9 +23,10 @@
 ### ✨ Featured Projects
 | Project | Description | Stack | Stars |
 | :--- | :--- | :--- | :--- |
-| [**SSLCheck**](https://github.com/codertesla/SSLCheck) | Advanced SSL certificate status and expiration checker. | Python | ⭐ 17 |
-| [**bilibili-1-click-blocker**](https://github.com/codertesla/bilibili-1-click-blocker) | A userscript to efficiently block creators on Bilibili. | JavaScript | ⭐ 9 |
-| [**wtf-commit**](https://github.com/codertesla/wtf-commit) | AI-powered VS Code extension for meaningful commit messages. | TypeScript | ⭐ 3 |
+| [**wtf-commit**](https://github.com/codertesla/wtf-commit) | AI-powered VS Code extension for concise, meaningful commit messages, with **10K+ downloads**. | TypeScript | ⭐ 3 |
+| [**bili-comment-buddy**](https://github.com/codertesla/bili-comment-buddy) | Tampermonkey userscript that uses LLMs to generate editable Bilibili comments. | JavaScript | — |
+| [**XGuard-Reply-Filter**](https://github.com/codertesla/XGuard-Reply-Filter) | Userscript for blocking spam replies on X/Twitter with one click. | JavaScript | — |
+| [**bilibili-1-click-blocker**](https://github.com/codertesla/bilibili-1-click-blocker) | A userscript to block Bilibili creators directly from the homepage or video pages. | JavaScript | ⭐ 15 |
 | [**codex-remote-login**](https://github.com/codertesla/codex-remote-login) | Zero-dependency bash script to authenticate Codex CLI on remote servers. | Shell | - |
 
 > [!TIP]
